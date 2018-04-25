@@ -1,0 +1,188 @@
+root { 
+    display: block;
+    
+}
+.centered {
+  text-align: center;
+}
+
+
+
+.sansSerif{
+    font-family: sans-serif;
+    color: red;
+    border-color:black;
+    border-style:solid;
+}
+
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  background-color: red;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  background-color: linen;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+#wrap > .container {
+  padding: 60px 15px 0;
+}
+.container .credit {
+  margin: 20px 0;
+}
+
+#footer > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.navbar {
+ background-color: red;
+}
+
+.navbar-default {
+    background-color: blue;
+}
+
+.navbar-fixed-top {
+    background-color: blanchedalmond;
+}
+
+.navbar-header {
+
+}
+
+.active{
+    
+}
+
+
+.navbar-toggle {
+
+}
+
+.navbar-nav {
+
+}
+
+.nav {
+
+}
+
+.collapse {
+
+}
+
+.text-muted {
+
+}
+
+.lead {
+
+}
+
+.page-header {
+
+}
+
+.dropdown-header {
+
+}
+
+.divider {
+
+}
+
+.dropdown-menu {
+
+}
+
+.dropdown-toggle {
+
+}
+
+.caret {
+
+}
+
+.dropdown {
+
+}
+
+.navbar-collapse {
+
+}
+
+.navbar-brand {
+
+}
+
+.icon-bar {
+
+}
+
+.button{
+    size: 100px;
+}
